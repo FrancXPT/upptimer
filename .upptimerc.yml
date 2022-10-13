@@ -5,8 +5,8 @@ repo: upptimer # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Test Alert
+    url: https://newsqss.ycqsqsombinator.com
   - name: Monitor
     url: http://monitoring.itadvisor.ma/
 

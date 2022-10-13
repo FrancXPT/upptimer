@@ -31,7 +31,7 @@ sites:
 
 
 status-website:
-  themeUrl: https://status.bbamoula.ml/custom.css
+  # themeUrl: https://status.bbamoula.ml/custom.css
   cname: status.bbamoula.ml
   # baseUrl: /upptimer
   logoUrl: https://francxpt.ga/img/logo.png

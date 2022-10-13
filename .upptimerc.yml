@@ -44,6 +44,8 @@ status-website:
       href: /
 i18n:
   footer: Powered by ☕ and ⚡ [FrancXPT](https://FrancXPT.ga)
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+  url: "https://status.bbamoula.ml"
+  allSystemsOperational: "🟩🚀 All systems operational"
+  degradedPerformance: "🟨 Degraded performance"
+  completeOutage: "🟥 Complete outage"
+  partialOutage: "🟧 Partial outage"

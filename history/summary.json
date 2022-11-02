@@ -22,19 +22,19 @@
     "url": "$AFF_SERVER",
     "icon": "https://afflatus.consulting/favicon.ico",
     "slug": "aff-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.67%",
+    "uptimeDay": "93.45%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
     "time": 125,
-    "timeDay": 160,
+    "timeDay": 146,
     "timeWeek": 134,
     "timeMonth": 125,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2022-11-02": 0
+      "2022-11-02": 94
     }
   },
   {

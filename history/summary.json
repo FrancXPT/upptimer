@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 124,
-    "timeDay": 153,
-    "timeWeek": 113,
-    "timeMonth": 124,
-    "timeYear": 124,
+    "time": 125,
+    "timeDay": 154,
+    "timeWeek": 121,
+    "timeMonth": 125,
+    "timeYear": 125,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://afflatus.consulting/favicon.ico",
     "slug": "aff-server",
     "status": "up",
-    "uptime": "99.76%",
+    "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
-    "time": 125,
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 126,
     "timeDay": 159,
-    "timeWeek": 119,
-    "timeMonth": 125,
-    "timeYear": 125,
+    "timeWeek": 128,
+    "timeMonth": 126,
+    "timeYear": 126,
     "dailyMinutesDown": {
       "2022-11-02": 94
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 123,
-    "timeDay": 151,
-    "timeWeek": 123,
-    "timeMonth": 123,
-    "timeYear": 123,
+    "time": 124,
+    "timeDay": 152,
+    "timeWeek": 132,
+    "timeMonth": 124,
+    "timeYear": 124,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.88%",
-    "time": 126,
-    "timeDay": 164,
-    "timeWeek": 119,
-    "timeMonth": 126,
-    "timeYear": 126,
+    "time": 127,
+    "timeDay": 165,
+    "timeWeek": 129,
+    "timeMonth": 127,
+    "timeYear": 127,
     "dailyMinutesDown": {
       "2022-10-17": 48
     }
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 118,
+    "time": 119,
     "timeDay": 154,
-    "timeWeek": 112,
-    "timeMonth": 118,
-    "timeYear": 118,
+    "timeWeek": 121,
+    "timeMonth": 119,
+    "timeYear": 119,
     "dailyMinutesDown": {}
   }
 ]

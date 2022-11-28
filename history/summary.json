@@ -42,9 +42,9 @@
     "url": "$PROXY_SERVER",
     "icon": "https://www.itadvisor.ma/favicon.ico",
     "slug": "proxy-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +53,9 @@
     "timeWeek": 108,
     "timeMonth": 120,
     "timeYear": 119,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-28": 0
+    }
   },
   {
     "name": "TOOLS Server",
@@ -61,11 +63,11 @@
     "icon": "https://img.icons8.com/color/maintenance",
     "slug": "tools-server",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.21%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "99.80%",
+    "uptimeYear": "99.81%",
     "time": 124,
     "timeDay": 97,
     "timeWeek": 115,

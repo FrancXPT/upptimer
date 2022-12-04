@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 120,
-    "timeDay": 122,
+    "timeDay": 89,
     "timeWeek": 114,
     "timeMonth": 115,
     "timeYear": 120,
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 123,
-    "timeDay": 131,
+    "time": 122,
+    "timeDay": 92,
     "timeWeek": 119,
     "timeMonth": 120,
-    "timeYear": 123,
+    "timeYear": 122,
     "dailyMinutesDown": {
       "2022-11-02": 94
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "99.14%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.88%",
-    "time": 120,
-    "timeDay": 128,
-    "timeWeek": 116,
-    "timeMonth": 117,
-    "timeYear": 120,
+    "time": 119,
+    "timeDay": 79,
+    "timeWeek": 115,
+    "timeMonth": 116,
+    "timeYear": 119,
     "dailyMinutesDown": {
       "2022-11-28": 87
     }
@@ -63,13 +63,13 @@
     "icon": "https://img.icons8.com/color/maintenance",
     "slug": "tools-server",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
+    "uptimeYear": "99.83%",
     "time": 124,
-    "timeDay": 123,
+    "timeDay": 92,
     "timeWeek": 118,
     "timeMonth": 121,
     "timeYear": 124,
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 117,
-    "timeDay": 121,
+    "time": 116,
+    "timeDay": 88,
     "timeWeek": 113,
     "timeMonth": 115,
-    "timeYear": 117,
+    "timeYear": 116,
     "dailyMinutesDown": {}
   }
 ]

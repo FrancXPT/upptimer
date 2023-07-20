@@ -32,10 +32,10 @@ sites:
 
 status-website:
   # themeUrl: https://status.bbamoula.ml/custom.css
-  cname: status.bbamoula.ml
+  cname: status.bba-tech.ma
   # baseUrl: /upptimer
-  logoUrl: https://francxpt.ga/img/logo.png
-  favicon: https://francxpt.ga/img/logo.png
+  logoUrl: https://bba-tech.ma/img/logo.png
+  favicon: https://bba-tech.ma/img/logo.png
   name: Upptimer
   introTitle: "**Upptimer** is an uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a status page which uses **real-time** data. No server required — just GitHub Actions, Issues, and Pages.
@@ -44,7 +44,7 @@ status-website:
       href: /
 i18n:
   footer: Powered by ☕ and ⚡ [FrancXPT](https://FrancXPT.ga)
-  url: "https://status.bbamoula.ml"
+  url: "https://status.bba-tech.ma"
   allSystemsOperational: "🟩🚀 All systems operational"
   degradedPerformance: "🟨 Degraded performance"
   completeOutage: "🟥 Complete outage"

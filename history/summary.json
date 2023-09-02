@@ -48,9 +48,9 @@
     "url": "$PROXY_SERVER",
     "icon": "https://www.itadvisor.ma/favicon.ico",
     "slug": "proxy-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -60,6 +60,7 @@
     "timeMonth": 107,
     "timeYear": 112,
     "dailyMinutesDown": {
+      "2023-09-02": 0,
       "2023-05-15": 114,
       "2022-12-19": 30,
       "2022-11-28": 87

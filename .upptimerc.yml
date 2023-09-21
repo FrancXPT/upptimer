@@ -34,6 +34,7 @@ status-website:
   # themeUrl: https://status.bbamoula.ml/custom.css
   cname: status.bba-tech.ma
   # baseUrl: /upptimer
+  theme: ocean
   logoUrl: https://bba-tech.ma/web/image/website/1/favicon
   favicon: https://bba-tech.ma/web/image/website/1/favicon
   name: BBA-TECH Upptimer

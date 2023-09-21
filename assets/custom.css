@@ -1,5 +1,9 @@
 :root {
   --nav-current-border-bottom-color: #1f9cbb;
-  --up-border-left-color: #25c6ef;
-  --tag-up-background-color: #25c6ef;
+  --up-border-left-color: #44cbb1;
+  --tag-up-background-color: #44cbb1;
+  --body-background-color: #272727;
+  --body-text-color: #f0ffff;
+  --card-background-color: #161616;
+  --nav-background-color: #363938;
 }

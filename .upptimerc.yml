@@ -12,7 +12,7 @@ sites:
     check: "tcp-ping"
     url: $AFF_SERVER
     port: 22
-    icon: https://afflatus.consulting/favicon.ico
+    icon: https://media.licdn.com/dms/image/C4D03AQFAUVtfcwQqrg/profile-displayphoto-shrink_800_800/0/1550163828067?e=1700697600&v=beta&t=-7RhjaCtqMD_ADZBM5lv6CYIMpL7W2mzPNHGtMzAmk4
   - name: PROXY Server
     check: "tcp-ping"
     url: $PROXY_SERVER
@@ -43,7 +43,7 @@ status-website:
     - title: Status
       href: /
 i18n:
-  footer: Powered by ☕ and ⚡ [FrancXPT](https://FrancXPT.ga)
+  footer: Powered by ☕ and ⚡ [FrancXPT](https://gh.bba-tech.ma/)
   url: "https://status.bba-tech.ma"
   allSystemsOperational: "🟩🚀 All systems operational"
   degradedPerformance: "🟨 Degraded performance"

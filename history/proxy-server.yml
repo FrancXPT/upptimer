@@ -1,7 +1,7 @@
 url: $PROXY_SERVER
 status: up
 code: 200
-responseTime: 100
-lastUpdated: 2024-02-11T23:14:04.526Z
+responseTime: 85
+lastUpdated: 2024-02-12T23:14:35.222Z
 startTime: 2022-10-13T15:27:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>

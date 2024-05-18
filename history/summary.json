@@ -32,7 +32,7 @@
     "icon": "https://media.licdn.com/dms/image/C4D03AQFAUVtfcwQqrg/profile-displayphoto-shrink_800_800/0/1550163828067?e=1700697600&v=beta&t=-7RhjaCtqMD_ADZBM5lv6CYIMpL7W2mzPNHGtMzAmk4",
     "slug": "aff-server",
     "status": "up",
-    "uptime": "99.62%",
+    "uptime": "99.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -103,9 +103,9 @@
     "url": "$WEBPANEL_SERVER",
     "icon": "https://img.icons8.com/color/dashboard-layout",
     "slug": "webpanel-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.45%",
@@ -115,6 +115,7 @@
     "timeMonth": 122,
     "timeYear": 116,
     "dailyMinutesDown": {
+      "2024-05-18": 0,
       "2023-12-16": 25,
       "2023-12-15": 1440,
       "2023-12-14": 1416

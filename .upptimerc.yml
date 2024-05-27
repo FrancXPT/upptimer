@@ -44,7 +44,7 @@ status-website:
     - title: Status
       href: /
 i18n:
-  footer: Powered by ☕ and ⚡ [FrancXPT](https://gh.bba-tech.ma/)
+  footer: Powered by ☕ and ⚡ [FrancXPT](https://cv.bba-tech.ma/)
   url: "https://status.bba-tech.ma"
   allSystemsOperational: "🚀 All systems operational"
   degradedPerformance: "🟨 Degraded performance"

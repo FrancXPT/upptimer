@@ -98,18 +98,20 @@
     "url": "$PROD2_SERVER",
     "icon": "https://www.itadvisor.ma/favicon.ico",
     "slug": "pr-2-server",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.89%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 94,
     "timeDay": 94,
     "timeWeek": 94,
     "timeMonth": 94,
     "timeYear": 94,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-31": 0
+    }
   },
   {
     "name": "TOOLS Server",

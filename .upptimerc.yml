@@ -18,6 +18,16 @@ sites:
     url: $PROXY_SERVER
     port: 22
     icon: https://www.itadvisor.ma/favicon.ico
+  - name: PR1 Server
+    check: "tcp-ping"
+    url: $PROD1_SERVER
+    port: 22
+    icon: https://www.itadvisor.ma/favicon.ico
+  - name: PR2 Server
+    check: "tcp-ping"
+    url: $PROD2_SERVER
+    port: 22
+    icon: https://www.itadvisor.ma/favicon.ico
   - name: TOOLS Server
     check: "tcp-ping"
     url: $TOOLS_SERVER

@@ -78,9 +78,9 @@
     "url": "$PROD1_SERVER",
     "icon": "https://www.itadvisor.ma/favicon.ico",
     "slug": "pr-1-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,7 +89,9 @@
     "timeWeek": 116,
     "timeMonth": 115,
     "timeYear": 121,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-30": 0
+    }
   },
   {
     "name": "PR2 Server",

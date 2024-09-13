@@ -26,7 +26,7 @@ sites:
   - name: PR2 Server
     check: "tcp-ping"
     url: $PROD2_SERVER
-    port: 22
+    port: 22222
     icon: https://www.itadvisor.ma/favicon.ico
   - name: TOOLS Server
     check: "tcp-ping"

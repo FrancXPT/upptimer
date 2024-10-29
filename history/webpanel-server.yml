@@ -1,7 +1,7 @@
 url: $WEBPANEL_SERVER
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-10-28T23:06:37.086Z
+status: up
+code: 200
+responseTime: 101
+lastUpdated: 2024-10-29T08:49:08.850Z
 startTime: 2022-10-13T15:27:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>

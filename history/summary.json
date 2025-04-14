@@ -4,10 +4,10 @@
     "url": "$MAIN_SERVER",
     "icon": "https://img.icons8.com/color/deployment",
     "slug": "main-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 117,
@@ -15,7 +15,9 @@
     "timeWeek": 111,
     "timeMonth": 116,
     "timeYear": 118,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-14": 1
+    }
   },
   {
     "name": "AFF Server",
@@ -99,18 +101,18 @@
     "icon": "https://www.itadvisor.ma/favicon.ico",
     "slug": "pr-2-server",
     "status": "down",
-    "uptime": "38.63%",
+    "uptime": "38.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "38.63%",
+    "uptimeYear": "38.56%",
     "time": 121,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2025-04-14": 25,
+      "2025-04-14": 822,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
       "2025-04-11": 1440,

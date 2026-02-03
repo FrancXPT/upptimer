@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.42%",
-    "time": 118,
-    "timeDay": 127,
-    "timeWeek": 107,
-    "timeMonth": 114,
+    "time": 119,
+    "timeDay": 149,
+    "timeWeek": 116,
+    "timeMonth": 115,
     "timeYear": 119,
     "dailyMinutesDown": {
       "2026-01-06": 67,
@@ -39,17 +39,16 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "99.69%",
+    "uptimeYear": "99.87%",
     "time": 114,
-    "timeDay": 129,
-    "timeWeek": 108,
-    "timeMonth": 113,
-    "timeYear": 114,
+    "timeDay": 148,
+    "timeWeek": 117,
+    "timeMonth": 115,
+    "timeYear": 115,
     "dailyMinutesDown": {
       "2026-01-06": 66,
       "2025-12-06": 181,
-      "2025-06-15": 44,
-      "2025-02-03": 445
+      "2025-06-15": 44
     }
   },
   {
@@ -64,9 +63,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 110,
-    "timeDay": 127,
-    "timeWeek": 105,
-    "timeMonth": 110,
+    "timeDay": 149,
+    "timeWeek": 114,
+    "timeMonth": 112,
     "timeYear": 111,
     "dailyMinutesDown": {
       "2025-10-02": 80,
@@ -87,9 +86,9 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.71%",
     "time": 118,
-    "timeDay": 129,
-    "timeWeek": 107,
-    "timeMonth": 132,
+    "timeDay": 151,
+    "timeWeek": 116,
+    "timeMonth": 134,
     "timeYear": 117,
     "dailyMinutesDown": {
       "2026-01-06": 64,
@@ -108,18 +107,19 @@
     "icon": "https://www.itadvisor.ma/favicon.ico",
     "slug": "pr-2-server",
     "status": "down",
-    "uptime": "20.06%",
+    "uptime": "20.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 114,
+    "time": 116,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-02": 33,
+      "2026-02-03": 34,
+      "2026-02-02": 1440,
       "2026-02-01": 1440,
       "2026-01-31": 1440,
       "2026-01-30": 1440,
@@ -482,8 +482,7 @@
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
-      "2025-02-04": 1440,
-      "2025-02-03": 1440
+      "2025-02-04": 1440
     }
   },
   {
@@ -492,18 +491,19 @@
     "icon": "https://img.icons8.com/color/maintenance",
     "slug": "tools-server",
     "status": "down",
-    "uptime": "84.61%",
+    "uptime": "84.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "49.72%",
+    "uptimeYear": "49.62%",
     "time": 120,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2026-02-02": 33,
+      "2026-02-03": 34,
+      "2026-02-02": 1440,
       "2026-02-01": 1440,
       "2026-01-31": 1440,
       "2026-01-30": 1440,
@@ -687,8 +687,7 @@
       "2025-07-06": 1438,
       "2025-07-05": 939,
       "2025-06-03": 811,
-      "2025-06-02": 650,
-      "2025-02-03": 446
+      "2025-06-02": 650
     }
   },
   {
@@ -703,9 +702,9 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.92%",
     "time": 129,
-    "timeDay": 130,
-    "timeWeek": 120,
-    "timeMonth": 117,
+    "timeDay": 152,
+    "timeWeek": 129,
+    "timeMonth": 119,
     "timeYear": 118,
     "dailyMinutesDown": {
       "2026-01-06": 62,
